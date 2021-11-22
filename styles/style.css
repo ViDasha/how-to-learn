@@ -296,23 +296,22 @@
   color: white;
 }
 
-.footer__column_content_copyright {
+.footer__column {
   display: flex;
   flex-direction: column;
+}
+
+.footer__column_content_copyright {
   justify-content: space-between;
   flex-basis: 711px;
 }
 
 .footer__column_content_info {
-  display: flex;
-  flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
 }
 
 .footer__column_content_social {
-  display: flex;
-  flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
 }
