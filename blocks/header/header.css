@@ -1,0 +1,12 @@
+/*Заголовок*/
+.header {
+  margin: 0;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+}

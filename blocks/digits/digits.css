@@ -1,0 +1,8 @@
+/*Блок Цифры и факты*/
+.digits {
+  margin: 100px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

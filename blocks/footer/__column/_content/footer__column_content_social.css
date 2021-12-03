@@ -1,0 +1,5 @@
+/*Колонка соц. сетей*/
+.footer__column_content_social {
+  justify-content: flex-start;
+  align-items: flex-start;
+}

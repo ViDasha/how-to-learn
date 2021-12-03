@@ -1,0 +1,5 @@
+/*Колонка навигации по сайту*/
+.footer__column_content_info {
+  justify-content: flex-start;
+  align-items: flex-start;
+}

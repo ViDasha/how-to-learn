@@ -1,0 +1,6 @@
+/*Колонка с названием и колонка с описанием*/
+.two-columns {
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+}

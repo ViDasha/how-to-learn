@@ -1,0 +1,5 @@
+/*Колонка подвала*/
+.footer__column {
+  display: flex;
+  flex-direction: column;
+}

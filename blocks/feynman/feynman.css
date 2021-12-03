@@ -1,0 +1,14 @@
+/*Блок Фейнман*/
+.feynman {
+  min-height: 890px;
+  display: flex;
+  background-color: #f2f2f2;
+  background-image: url("../../images/feynman.png");
+  background-size: 867px 637px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  flex-direction: column;
+  position: relative;
+  justify-content: flex-start;
+  align-items: center;
+}
