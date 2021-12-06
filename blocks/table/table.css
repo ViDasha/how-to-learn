@@ -1,9 +1,11 @@
 /*Таблица*/
 .table {
   margin: 0 auto;
+  padding: 0;
   width: 1100px;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
+  list-style-type: none;
 }
